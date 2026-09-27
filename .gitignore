@@ -1,0 +1,8 @@
+# Never commit an installed Nextcloud configuration or deployment secrets.
+config.php
+*.secret
+*.key
+*.pem
+.env
+*.log
+.DS_Store
